@@ -1,6 +1,6 @@
 # Hello, I'm Pelin! 👋
 
-I am a Web Designer and Developer.
+I am a Web Designer & Developer.
 
 ## My Goals
 - 🌍 Contribute to open source projects.

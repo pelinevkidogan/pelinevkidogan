@@ -1,4 +1,4 @@
-# Hello, I'm Pelin! 👋
+# Hello, I'm Pelin! 
 
 I am a Web Designer & Developer.
 
